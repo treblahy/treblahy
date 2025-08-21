@@ -1,6 +1,6 @@
-Hi, I’m @treblahy<br>
-I'm just a college student enjoying my life<br>
-You can reach me on Youtube channel "treblaHY (or Trebla Nehc)" or mail: albert93110812@gmail.com<br>
+## Hi, I’m treblaHY<br>
+I'm just a college student enjoying my life.<br>
+You can reach me here on Github or mail: albert93110812@gmail.com<br>
 
 <!---
 treblahy/treblahy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
